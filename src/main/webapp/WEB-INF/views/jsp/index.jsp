@@ -40,7 +40,7 @@
 
 	<div class="row">
 		<div class="col-md-8">
-			<h2><i>Welcome To Rajesh Cloud!!!!</i></h2>
+			<h2><i>Welcome To Rajesh Cloud!!!! , Ashok nagar , chennai-83</i></h2>
 			<h3>Contact @ +91-9597790249 </h3>
 		</div>	
 	</div>
@@ -48,7 +48,7 @@
 
 	<hr>
 	<footer>
-		<p>&copy; Rajesh cloud</p>
+		<p>&copy; Rajesh cloud, chennai</p>
 	</footer>
 </div>
 
